@@ -32,7 +32,8 @@ Design & Tech Stack Preferences:
 
 ![Preview do Portfólio](finai.png)
 
-Acesso ao projeto no Lovable: https://lovable.dev/projects/8e9175a1-cb38-4646-aac9-bf460d1fc7ed
+Acesso ao projeto no Lovable: 
+- **[Lovable](https://lovable.dev/projects/8e9175a1-cb38-4646-aac9-bf460d1fc7ed)**
 
 ## 💡 Resumo do Conceito
 
